@@ -11,13 +11,13 @@ char unCaracter = 'M';
 int temperatura; //Definiendo la variable
 ////////////////////////////
 //*Global Variables*//
-char* date = "02-02-22T10:25:00z"
+char* date = "02-02-22T10:25:00z";
 ////////////////////////////
-int name  = "Juan Jose";
-char* name = 256; 
+//int* name2  = "Juan Jose";
+char* namet = 1; 
 
 /// La ejecucion del programa//
-; int main (){
+ int main (){
     temperatura = 24; 
     int hours = 6; 
     printf("hours: %i\n", hours);
