@@ -6,7 +6,7 @@
 int main(int argc, char** argv){
 
     if (argc != 2) {
-        printf("Error program: U need to insert a number, e.g: ./%s argv[1]\n", argv[0] );
+        printf("5, e.g: ./%s argv[1]\n", argv[0] );
         return 0;
     }
 
